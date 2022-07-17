@@ -1,0 +1,8 @@
+.bg{
+    width: 100%;
+    min-height: 100vh;
+    background: url(../assets/draw.jpg);
+    background-size: cover;
+    color: white;
+
+}
